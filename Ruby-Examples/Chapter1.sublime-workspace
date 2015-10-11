@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"r",
+				"Users/"
+			],
+			[
+				"fib",
+				"fib〔variable〕"
+			],
+			[
+				"colle",
+				"collect〔function〕"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"pars",
+				"parseInt〔function〕"
+			],
+			[
+				"cl",
+				"cla	class .. initialize .. end"
+			],
+			[
+				"cla",
+				"cla	ClassName = Struct .. do .. end"
+			],
+			[
+				"my",
+				"my_dungeon"
+			],
+			[
+				"to_",
+				"to_s"
+			],
+			[
+				"sor",
+				"sorb	sort_by { |e| .. }"
+			],
+			[
+				"las",
+				"last"
+			],
+			[
+				"rane",
+				"range_1_to_10"
+			],
+			[
+				"dat",
+				"date_in_seconds"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"eas",
+				"east"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"so",
+				"show_current_description"
+			],
+			[
+				"fin",
+				"find_room_in_direction"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"na",
+				"name_player"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"Pl",
+				"player"
+			],
+			[
+				"co",
+				"connections"
+			],
+			[
+				"re",
+				"reference"
+			],
+			[
+				"pla",
+				"name_player"
+			],
+			[
+				"stru",
+				"Struct"
+			],
+			[
+				"P",
+				"Player"
+			],
+			[
+				"D",
+				"Dungeon"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"fi",
+				"First"
+			],
+			[
+				"nu",
+				"num_array"
+			],
+			[
+				"Com",
+				"comparable"
+			],
+			[
+				"all",
+				"AllVowels"
+			],
+			[
+				"mx",
+				"max_number"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"do",
+				"do_stuff"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"use",
+				"UsefulFeatures"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"new_",
+				"new_toolbox"
+			],
+			[
+				"coun",
+				"Country"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"another",
+				"AnotherWorld"
+			],
+			[
+				"this",
+				"ThisWorld"
+			],
+			[
+				"anoth",
+				"AnotherWorld"
+			],
+			[
+				"prin",
+				"print_PI"
+			],
+			[
+				"This",
+				"ThisWorld"
+			],
+			[
+				"anote",
+				"another_circle"
+			],
+			[
+				"what",
+				"what_am_i"
+			],
+			[
+				"give",
+				"give_me_a_circle"
+			],
+			[
+				"access",
+				"attr_accessor"
+			],
+			[
+				"age",
+				"age_difference"
+			],
+			[
+				"set",
+				"set_name"
+			],
+			[
+				"fis",
+				"first_name"
+			],
+			[
+				"ca",
+				"capitalized_name"
+			],
+			[
+				"print",
+				"print_name"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"insta",
+				"instance_variables"
+			],
+			[
+				"meth",
+				"methods"
+			],
+			[
+				"me",
+				"method_2"
+			],
+			[
+				"ch",
+				"child_object"
+			],
+			[
+				"pr",
+				"print_count"
+			],
+			[
+				"inst",
+				"instance"
+			],
+			[
+				"si",
+				"side_length"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"para",
+				"paragraph"
+			],
+			[
+				"sen",
+				"Sentences"
+			],
+			[
+				"aver",
+				"average_sentences"
+			],
+			[
+				"sent",
+				"sentence"
+			],
+			[
+				"av",
+				"average_words"
+			],
+			[
+				"par",
+				"paragraphs"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"chara",
+				"characters"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"s",
+				"scan"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"go",
+				"good_percentage"
+			],
+			[
+				"one",
+				"one_third"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"sene",
+				"sentences_sorted"
+			],
+			[
+				"sente",
+				"sentences"
+			],
+			[
+				"senc",
+				"sentences"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"li",
+				"line_count"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"pa",
+				"paragraph_count"
+			],
+			[
+				"parag",
+				"paragraphs"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"read",
+				"readlines"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"range",
+				"rangeABC"
+			],
+			[
+				"ea",
+				"ea	each { |e| .. }"
+			],
+			[
+				"tod",
+				"todayInSeconds"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"tie",
+				"Time"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"lam",
+				"lambda"
+			],
+			[
+				"eac",
+				"each_vowel"
+			],
+			[
+				"code",
+				"code_block"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"fui",
+				"fruit"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"arra",
+				"arraySize"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"ar",
+				"arraySize"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"fr",
+				"first"
+			],
+			[
+				"reve",
+				"reverse"
+			],
+			[
+				"h",
+				"HERE_DOCUMENT"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"lis",
+				"listItem"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"creatot",
+				"Quick File Creator: Create file"
+			],
+			[
+				"qui",
+				"Quick File Creator: Create file"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/chapter6.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/chapter7.rb",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/html.html",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/javascript.js",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/Dungeoun.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/Chapter4.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/Chapter3.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/Chapter1.rb",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/something.js",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/text.txt",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/Inheritance.png",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/dungeon.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/example.rb",
+		"/Users/Angar_sk8/Sites/MM_JAVASCRIPT3E/chapter14/todo.js",
+		"/Users/Angar_sk8/Sites/MM_JAVASCRIPT3E/chapter14/index.html",
+		"/Users/Angar_sk8/Sites/MM_JAVASCRIPT3E/chapter08/complete_validation.html",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/sample.js",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/oliver.txt",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/chapter3.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/chapter1.rb",
+		"/Users/Angar_sk8/Google Drive/Books/Beginning Ruby/Ruby-Examples/chapter3.rub",
+		"/Users/Angar_sk8/Desktop/Chapter1.rb",
+		"/Users/Angar_sk8/Desktop/Chapter3.rb",
+		"/Users/Angar_sk8/Desktop/phpinfo.php",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/apache2/users/Angar_sk8.conf",
+		"/Users/Angar_sk8/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/._bootstrap-theme.min.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/JavaScript/jquery-1.11.2.min.js",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/._glyphicons-halflings-regular.woff2",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/._glyphicons-halflings-regular.woff",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/js/._npm.js",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Fonts/Chunkfive-webfont.svg",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/js/._bootstrap.min.js",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/bootstrap-theme.min.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/js/npm.js",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.woff2",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.woff",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/bootstrap.min.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/js/bootstrap.min.js",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/._glyphicons-halflings-regular.svg",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.svg",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/._Sample1.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/._Sample4.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/._Sample5.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/._Sample6.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample1.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample10.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample2.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample3.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample4.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample5.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample6.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample7.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/Sample9.html",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/._bootstrap-theme.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/._bootstrap-theme.css.map",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/._bootstrap.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/bootstrap-3.3.2-dist/css/._bootstrap.css.map",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/CSS/Sample9Rules.css",
+		"/Volumes/ANGARSK8/Brackets/BracketsProjects/JavaScript/Sample7Scripts.js",
+		"/Volumes/TOSHIBA EXT/Brackets/BracketsProjects/Sample5.html",
+		"/Volumes/TOSHIBA EXT/HR Reports - Carvajal Servicios S.A.S/Estructura Creación Tablas/Estructura Creación de Tablas - RGH (Pr).sql"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"side_length",
+			"#",
+			"side_length",
+			"name",
+			"name_player",
+			"number",
+			"length",
+			"fer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Chapter1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"chapter6.rb"
+			],
+			[
+				"css",
+				"css.css"
+			],
+			[
+				"ja",
+				"javascript.js"
+			],
+			[
+				".",
+				"text.txt"
+			],
+			[
+				"tex",
+				"text.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "chap",
+		"selected_items":
+		[
+			[
+				"chap",
+				"~/Google Drive/Books/Beginning Ruby/Ruby-Examples/Chapter1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
